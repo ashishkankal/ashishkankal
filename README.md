@@ -10,3 +10,8 @@ I m Ashish Kankal, currently pursuing Masters in Computer Science and Engineerin
 
 - ⚡ Fun fact: Any weired or unnormal behaviour is a new ~~bug~~ feature
 
+### Current Coursework:
+- Computer Systems Security
+- Design and Analysis of Algorithms
+- Graphics and Visualization
+- Linear Algebra and Probability
