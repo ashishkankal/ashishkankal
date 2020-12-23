@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I m Ashish Kankal, currently pursuing Masters in Computer Science and Engineering at [Indian Institute of Science, Bangalore (IISc)](https://www.iisc.ac.in/). I have completed my B.Tech from Government College of Engineering, Amravati in 2017.
+I m Ashish Kankal, currently pursuing Masters in Computer Science and Engineering at [Indian Institute of Science, Bangalore (IISc)](https://www.iisc.ac.in/). I have completed my B.Tech in Computer Science and Engineering from [Government College of Engineering, Amravati](https://gcoea.ac.in/).
 
 ### About Me:
 
