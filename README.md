@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-I m Ashish Kankal, currently pursuing Masters in Computer Science and Engineering at [Indian Institute of Science, Bangalore](https://www.iisc.ac.in/).
-
+I m Ashish Kankal, currently pursuing Masters in Computer Science and Engineering at [Indian Institute of Science, Bangalore (IISc)](https://www.iisc.ac.in/).
 
 ### About Me:
 
 - 🔭 I’m currently working on [Rust](https://www.rust-lang.org/) and [OpenGL](https://www.opengl.org/)
 - 🌱 I’m currently learning security vulnerabilites and graphics visualisation
-
 - ⚡ Fun fact: Any weired or unnormal behaviour is a new ~~bug~~ feature
 
 ### Current Coursework:
@@ -24,3 +22,9 @@ I m Ashish Kankal, currently pursuing Masters in Computer Science and Engineerin
 ### Recent Work in ML
 - Study Spectral CLustering
 - Study Least Square Regression
+
+### Tools and Technologies
+- VS Code
+- React.js
+- Flask
+- Git
