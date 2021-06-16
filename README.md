@@ -9,10 +9,17 @@ I m Ashish Kankal, currently pursuing Masters in Computer Science and Engineerin
 - ⚡ Fun fact: Any weired or unnormal behaviour is a new ~~bug~~ feature
 
 ### Current Coursework:
+Semester 1
 - Computer Systems Security
 - Design and Analysis of Algorithms
 - Graphics and Visualization
 - Linear Algebra and Probability
+
+Semester 2
+- Computational Topology
+- Principles of Distributed Systems
+- Operating Systems
+- Machine Learning
 
 ### Recent Work in Graphics and Visualization :
 - Study Lighting and Phong Shading
@@ -20,7 +27,7 @@ I m Ashish Kankal, currently pursuing Masters in Computer Science and Engineerin
 - Draw Iso surface rendering using scaler field
 
 ### Recent Work in ML
-- Study Spectral CLustering
+- Study Spectral Clustering
 - Study Least Square Regression
 
 ### Tools and Technologies
