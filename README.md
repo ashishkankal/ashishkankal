@@ -21,6 +21,13 @@ Semester 2
 - Operating Systems
 - Machine Learning
 
+### Work Experience
+**Swiftace.Inc (Jovian.ml)**
+March 2019 - September 2020
+
+**Bizsense Solutions Pvt. Ltd. Nagpur**
+June 2017 - March 2019
+
 ### Recent Work in Graphics and Visualization :
 - Study Lighting and Phong Shading
 - Draw Contour lines using scaler field
