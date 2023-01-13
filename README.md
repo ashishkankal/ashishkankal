@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 ### 🙂 About Me:
-I m Ashish Kankal, currently working as Senior Software Engineer at Jovian.ai. I have completed Masters in Computer Science and Engineering at [Indian Institute of Science, Bangalore (IISc)](https://www.iisc.ac.in/). I have completed my B.Tech in Computer Science and Engineering from [Government College of Engineering, Amravati](https://gcoea.ac.in/).
+I m Ashish Kankal, currently working as Senior Software Engineer at [Jovian](https://www.jovian.com). I have completed Masters in Computer Science and Engineering at [Indian Institute of Science, Bangalore (IISc)](https://www.iisc.ac.in/). I have completed my B.Tech in Computer Science and Engineering from [Government College of Engineering, Amravati](https://gcoea.ac.in/).
 
 ### 💼 Work Experience
 
-**Senior Software Engineer at Jovian.ai (SwiftAce Inc.)** | June 2022 - Present <br/>
+**Senior Software Engineer at Jovian (SwiftAce Inc.)** | June 2022 - Present <br/>
 
-**Software Development Consultant at Jovian.ai (SwiftAce Inc.)** | April 2019 - September 2020 <br/>
+**Software Development Consultant at Jovian (SwiftAce Inc.)** | April 2019 - September 2020 <br/>
 - *Contributions:* Notebook collections, Markdown rendering, User contributions graph, Code Instrumentation, Code Splitting <br/>
 - *Key Responsibilities:* Frontend and Backend development, Deployment, Code reviews, and refactoring, DB Migrations
 
@@ -29,8 +29,20 @@ Actor-based programming frameworks like Akka are becoming popular due to their e
 - Study Spectral Clustering
 - Study Least Square Regression
 
-### Tools and Technologies
-- VS Code
-- React.js
+### Programming Languages
+- Javascript
+- Python
+- C/C++
+- Java
+
+### Frameworks
+- Next.js
+- Tailwind
+- Bootstrap
 - Flask
+
+### Tools
+- VS Code
 - Git
+- Docker
+- Kubernetes
