@@ -5,7 +5,7 @@ I m Ashish Kankal, currently working as Senior Software Engineer at [Jovian](htt
 
 ### 💼 Work Experience
 
-**Senior Software Engineer at Jovian (SwiftAce Inc.)** | June 2022 - Present <br/>
+**Senior Software Engineer at Jovian (SwiftAce Inc.)** | July 2022 - Present <br/>
 
 **Software Development Consultant at Jovian (SwiftAce Inc.)** | April 2019 - September 2020 <br/>
 - *Contributions:* Notebook collections, Markdown rendering, User contributions graph, Code Instrumentation, Code Splitting <br/>
