@@ -11,7 +11,7 @@ I m Ashish Kankal, currently working as Senior Software Engineer at [Jovian](htt
 
 **Software Development Consultant at Jovian (SwiftAce Inc.)** | April 2019 - September 2020 <br/>
 - *Contributions:* Notebook collections, Markdown rendering, User contributions graph, Code Instrumentation, Code Splitting <br/>
-- *Key Responsibilities:* Frontend and Backend development, Deployment, Code reviews, and refactoring, DB Migrations
+- *Key Responsibilities:* Frontend and Backend development, Deployment, Code reviews,refactoring and, DB Migrations
 
 **Software Engineer (Dev) at Bizsense Solutions Pvt. Ltd, Nagpur** | June 2017 - March 2019 <br/>
 - *Contributions:* Worked on US-based Payroll management product, UI/UX Styleguide for React components <br/>
