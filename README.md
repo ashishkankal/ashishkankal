@@ -18,7 +18,7 @@ I m Ashish Kankal, currently working as Senior Software Engineer at [Jovian](htt
 - *Key responsibilities:* Frontend development, API integration, Code reviews, CI/CD
 
 ### 🔎 Research Work
-**Static Analysis framework for Actor-based programming models**
+**Static Analysis framework for Actor-based programming models**<br/>
 *Under the guidance of [Prof. K. V. Raghavan](https://www.csa.iisc.ac.in/~raghavan/)* <br/><br/>
 Actor-based programming frameworks like Akka are becoming popular due to their ease of communication via message passing without sharing the state and better concurrency models. But with the ease of this model, there are challenges in detecting bugs that arise due to message-delivery failures and delays, so there is a need to design a framework to study and analyze the actor model statically.
 
